@@ -1,0 +1,5 @@
+{
+  "name": "AI Exam Generator",
+  "description": "An AI-powered application that generates exams based on a specified course, subject, and topic by searching for real exams and information online.",
+  "requestFramePermissions": []
+}
